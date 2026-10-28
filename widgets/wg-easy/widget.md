@@ -1,6 +1,8 @@
 # WG-EASY Dashboard
 This widget displays a list of all wg-easy clients and their respective status.
 
+<img width="314" height="313" alt="image" src="https://github.com/user-attachments/assets/dc21ddb0-2f03-49e1-9f1f-64c4f3232ca9" />
+
 ### How the widget works?
 Wireguard is a stateless protocol and we can only evaluate connections by checking the time of the recent handshake.
 The implementation determines the connection status by checking the following:
